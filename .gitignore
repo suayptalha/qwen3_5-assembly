@@ -1,0 +1,10 @@
+/.venv/
+/build/
+/model/
+/reference.json
+__pycache__/
+/prototype-output.json
+# Local benchmark artifacts and temporary comparison package
+/benchmark-results.json
+/Qwen3_5_CPU_Comparison.ipynb
+/qwen3_5_colab_cpu.zip
